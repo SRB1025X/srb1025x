@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shreyas Ramesh Bollavathini</h1>
-<p align="left"> <a href="https://twitter.com/srb1025x" target="blank"><img src="https://img.shields.io/twitter/follow/phoenix312003?logo=twitter&style=for-the-badge" alt="phoenix312003" /></a> </p>
 
 - 📫 How to reach me **shreyasrb31@gmail.com**
 
